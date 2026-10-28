@@ -6,6 +6,8 @@ D-pad and a text field.
 
 > Status: **MVP v0.1.0** — usable for short Chinese input, English, numbers and
 > symbols. No cloud, no network permission.
+>
+> **Download APK:** [v0.1.0](https://github.com/llj503/ngp-pinyin-ime/releases/tag/v0.1.0)
 
 ![keyboard](docs/screenshot-keyboard.png)
 
