@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">手柄拼音</string>
+    <string name="ime_name">手柄拼音 (NGP Pad IME)</string>
+    <string name="subtype_zh">中文（手柄）</string>
+    <string name="test_title">手柄拼音 IME</string>
+    <string name="test_note">先在系统设置里启用并选择“手柄拼音”。\nD-pad 移动，A 输入/选字，B 退格，X 空格/上屏首选，Y 候选，L1/R1 翻页，Start 回车，Select 中/英/符号。</string>
+    <string name="test_hint">在这里试打：nihao → 你好</string>
+</resources>

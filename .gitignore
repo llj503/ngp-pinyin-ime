@@ -1,0 +1,9 @@
+build/
+dist/
+dict/cedict.txt
+dict/cedict.txt.gz
+dict/jieba-dict.txt
+dict/rime-luna.zip
+dict/rime-luna-pinyin-master/
+dict/dict.tsv
+*.log
